@@ -10,9 +10,6 @@
   Any changes to README.md directly will result in a failure on CI.
 -->
 
-
-
-
 <h1 align="center">Angular CLI - The CLI tool for Angular.</h1>
 
 <p align="center">
