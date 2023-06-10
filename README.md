@@ -12,6 +12,7 @@
 
 <h1 align="center">Angular CLI - The CLI tool for Angular.</h1>
 
+
 <p align="center">
   <br>
   <img src="/docs/images/angular-cli-logo.png" alt="Angular CLI logo" width="100px" height="108px"/>
